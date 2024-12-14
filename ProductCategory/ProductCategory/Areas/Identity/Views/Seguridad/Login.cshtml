@@ -1,0 +1,20 @@
+﻿@using ProductCategory.Areas.Identity.Models
+@model Usuario
+<h3>Iniciar sesion</h3>
+<form asp-action="IniciarSesion" asp-controller="Seguridad" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div> <!-- Resumen de validación -->
+    <div class="row">
+        <div class="col-md-3">
+            Usuario
+            <input type="text" class="form-control" asp-for="UserName" />
+        </div>
+        <div class="col-md-3">
+            Clave
+            <input type="password" class="form-control" asp-for="PasswordHash" />
+        </div>
+        <div class="col-md-3">
+           <br />
+            <button type="submit" class="btn btn-success">Iniciar sesión</button>
+        </div>
+    </div>
+</form>

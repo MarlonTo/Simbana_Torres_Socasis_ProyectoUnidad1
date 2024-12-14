@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA27D01-1FFE-4042-B065-778D02D1A8DA}|BLL\\BLL.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\bll\\usuarioslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA27D01-1FFE-4042-B065-778D02D1A8DA}|BLL\\BLL.csproj|solutionrelative:bll\\usuarioslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\areas\\identity\\controllers\\seguridadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\areas\\identity\\controllers\\seguridadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\areas\\negocio\\views\\categorias\\crearcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\areas\\negocio\\views\\categorias\\crearcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\areas\\negocio\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\areas\\negocio\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\areas\\negocio\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\areas\\negocio\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\areas\\negocio\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\areas\\negocio\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EAC4F5-2EE3-4754-9124-30CE89B8995D}|Persistence\\Persistence.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EAC4F5-2EE3-4754-9124-30CE89B8995D}|Persistence\\Persistence.csproj|solutionrelative:persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA74C16-CE0A-40F9-A2EB-97AE72034C50}|C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SOAP|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\soap\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA74C16-CE0A-40F9-A2EB-97AE72034C50}|C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SOAP|solutionrelative:soap\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA27D01-1FFE-4042-B065-778D02D1A8DA}|BLL\\BLL.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\bll\\categorieslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA27D01-1FFE-4042-B065-778D02D1A8DA}|BLL\\BLL.csproj|solutionrelative:bll\\categorieslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA74C16-CE0A-40F9-A2EB-97AE72034C50}|C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SOAP|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\soap\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA74C16-CE0A-40F9-A2EB-97AE72034C50}|C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SOAP|solutionrelative:soap\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|solutionrelative:dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\dal\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|solutionrelative:dal\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|solutionrelative:dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\dal\\icategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|solutionrelative:dal\\icategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\dal\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496883E6-FFCA-4A5E-9ADF-EC198F66FC49}|DAL\\DAL.csproj|solutionrelative:dal\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84AC16B-B783-4442-AE9D-F912DE6CF9C5}|Entities\\Entities.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84AC16B-B783-4442-AE9D-F912DE6CF9C5}|Entities\\Entities.csproj|solutionrelative:entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84AC16B-B783-4442-AE9D-F912DE6CF9C5}|Entities\\Entities.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84AC16B-B783-4442-AE9D-F912DE6CF9C5}|Entities\\Entities.csproj|solutionrelative:entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F82E5A-BDDA-447B-BE03-7C2A414177D9}|Proxy\\Proxy.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\proxy\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F82E5A-BDDA-447B-BE03-7C2A414177D9}|Proxy\\Proxy.csproj|solutionrelative:proxy\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D04D20-2FA3-4503-9164-7D509710251F}|SLC\\SLC.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\slc\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D04D20-2FA3-4503-9164-7D509710251F}|SLC\\SLC.csproj|solutionrelative:slc\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EAC4F5-2EE3-4754-9124-30CE89B8995D}|Persistence\\Persistence.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\persistence\\migrations\\20241214170152_autoincremental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EAC4F5-2EE3-4754-9124-30CE89B8995D}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\20241214170152_autoincremental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\areas\\negocio\\views\\productos\\crearproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\areas\\negocio\\views\\productos\\crearproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|c:\\users\\isaee\\downloads\\productcategory\\productcategory\\productcategory\\areas\\negocio\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A45A95-B1AE-4AE7-B11E-33CC2AA881F0}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\areas\\negocio\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearCategoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Views\\Categorias\\CrearCategoria.cshtml",
+              "RelativeDocumentMoniker": "ProductCategory\\Areas\\Negocio\\Views\\Categorias\\CrearCategoria.cshtml",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Views\\Categorias\\CrearCategoria.cshtml",
+              "RelativeToolTip": "ProductCategory\\Areas\\Negocio\\Views\\Categorias\\CrearCategoria.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T21:40:53.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductCategory\\Areas\\Negocio\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "ProductCategory\\Areas\\Negocio\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T21:40:51.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Program.cs",
+              "RelativeToolTip": "ProductCategory\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:51:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\BLL\\UsuariosLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\UsuariosLogic.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\BLL\\UsuariosLogic.cs",
+              "RelativeToolTip": "BLL\\UsuariosLogic.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:34:46.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeguridadController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Identity\\Controllers\\SeguridadController.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Areas\\Identity\\Controllers\\SeguridadController.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Identity\\Controllers\\SeguridadController.cs",
+              "RelativeToolTip": "ProductCategory\\Areas\\Identity\\Controllers\\SeguridadController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwGoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:45:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Areas\\Negocio\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ProductCategory\\Areas\\Negocio\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:23:54.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Areas\\Negocio\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProductCategory\\Areas\\Negocio\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:23:59.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductCategory\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:31:40.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:30:20.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SOAP\\App_Code\\IService.cs",
+              "RelativeDocumentMoniker": "SOAP\\App_Code\\IService.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SOAP\\App_Code\\IService.cs",
+              "RelativeToolTip": "SOAP\\App_Code\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:41:21.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\IRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:35:01.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\RepositoryFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\RepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\RepositoryFactory.cs",
+              "RelativeToolTip": "DAL\\RepositoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:35:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SOAP\\App_Code\\Service.cs",
+              "RelativeDocumentMoniker": "SOAP\\App_Code\\Service.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SOAP\\App_Code\\Service.cs",
+              "RelativeToolTip": "SOAP\\App_Code\\Service.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:37:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\BLL\\CategoriesLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\CategoriesLogic.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\BLL\\CategoriesLogic.cs",
+              "RelativeToolTip": "BLL\\CategoriesLogic.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:37:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EFRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\EFRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\EFRepository.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\EFRepository.cs",
+              "RelativeToolTip": "DAL\\EFRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:35:03.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategorias.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\ICategorias.cs",
+              "RelativeDocumentMoniker": "DAL\\ICategorias.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\ICategorias.cs",
+              "RelativeToolTip": "DAL\\ICategorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:35:00.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\IProducts.cs",
+              "RelativeDocumentMoniker": "DAL\\IProducts.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\DAL\\IProducts.cs",
+              "RelativeToolTip": "DAL\\IProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:34:58.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Entities\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Entities\\ApplicationRole.cs",
+              "RelativeToolTip": "Entities\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:34:40.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:34:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Proxy\\Class1.cs",
+              "RelativeDocumentMoniker": "Proxy\\Class1.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Proxy\\Class1.cs",
+              "RelativeToolTip": "Proxy\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:32:45.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SLC\\IService.cs",
+              "RelativeDocumentMoniker": "SLC\\IService.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\SLC\\IService.cs",
+              "RelativeToolTip": "SLC\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:27:52.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241214170152_AutoIncremental.cs",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Persistence\\Migrations\\20241214170152_AutoIncremental.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\20241214170152_AutoIncremental.cs",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\Persistence\\Migrations\\20241214170152_AutoIncremental.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\20241214170152_AutoIncremental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:55:57.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductCategory\\Areas\\Negocio\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "ProductCategory\\Areas\\Negocio\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T19:48:06.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CrearProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Views\\Productos\\CrearProducto.cshtml",
+              "RelativeDocumentMoniker": "ProductCategory\\Areas\\Negocio\\Views\\Productos\\CrearProducto.cshtml",
+              "ToolTip": "C:\\Users\\Isaee\\Downloads\\ProductCategory\\ProductCategory\\ProductCategory\\Areas\\Negocio\\Views\\Productos\\CrearProducto.cshtml",
+              "RelativeToolTip": "ProductCategory\\Areas\\Negocio\\Views\\Productos\\CrearProducto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T19:48:02.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

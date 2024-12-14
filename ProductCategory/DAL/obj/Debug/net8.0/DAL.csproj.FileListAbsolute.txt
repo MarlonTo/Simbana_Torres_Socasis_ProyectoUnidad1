@@ -1,0 +1,34 @@
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\bin\Debug\net8.0\Entities.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\bin\Debug\net8.0\Persistence.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\bin\Debug\net8.0\Persistence.pdb
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\bin\Debug\net8.0\Entities.pdb
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\bin\Debug\net8.0\Entities.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\bin\Debug\net8.0\Persistence.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\bin\Debug\net8.0\Persistence.pdb
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\bin\Debug\net8.0\Entities.pdb
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\DAL\obj\Debug\net8.0\ref\DAL.dll

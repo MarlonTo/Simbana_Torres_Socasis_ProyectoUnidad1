@@ -1,0 +1,20 @@
+﻿@using Entities
+@model Category
+<h3>Crear Categoria</h3>
+<form method="post" asp-action="CrearCategoriaE" asp-controller="Categorias">
+    <div class="row">
+        <input type="hidden" asp-for="CategoryID" />
+        <div class="col-md-3">
+            Nombre
+            <input type="text" class="form-control" asp-for="CategoryName" />
+        </div>
+        <div class="col-md-3">
+            Descripción
+            <input type="text" class="form-control" asp-for="Description" />
+        </div>
+        <div class="col-md-3">
+            <br />
+            <button type="submit" class="btn btn-success">Guardar</button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,34 @@
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\bin\Debug\net8.0\Entities.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\bin\Debug\net8.0\Entities.pdb
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+C:\Users\COTACACHIX\Documents\Desarrollos Fuera\Curso\ProductCategory\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\bin\Debug\net8.0\Entities.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\bin\Debug\net8.0\Entities.pdb
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+C:\Users\Isaee\Downloads\ProductCategory\ProductCategory\Persistence\obj\Debug\net8.0\ref\Persistence.dll
